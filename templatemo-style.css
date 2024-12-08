@@ -397,15 +397,15 @@
   }
 
   .slider .item-first {
-    background-image: url(../image/PEXEL1.jpg);
+    background-image: url('PEXEL1.jpg');
   }
 
   .slider .item-second {
-    background-image: url(../image/1pexels-ihsan-adityawarman-2045600.jpg);
+    background-image: url('1pexels-ihsan-adityawarman-2045600.jpg');
   }
 
   .slider .item-third {
-    background-image: url(../image/PEXEL2.jpg);
+    background-image: url('PEXEL2.jpg');
   }
 
   .slider .item-second .section-btn {
@@ -636,7 +636,7 @@
   -----------------------------------------*/
 
   #testimonial {
-    background: url('..image/pexels-rahul-716398.jpg') center center no-repeat;
+    background: url('pexels-rahul-716398.jpg') center center no-repeat;
     background-size: cover;
   }
 
@@ -780,7 +780,7 @@
 
   .footer-open-hour {
     background: #ce3232;
-    background: url('../image/pexels-ricardo-esquivel-1907785.jpg') center center no-repeat;
+    background: url('pexels-ricardo-esquivel-1907785.jpg') center center no-repeat;
     background-size: cover;
     border-radius: 20px;
     margin-top: 0;

@@ -199,7 +199,7 @@
 
 
   /*---------------------------------------
-      MENU              
+      CONTENT             
   -----------------------------------------*/
 
   .custom-navbar {
@@ -636,7 +636,7 @@
   -----------------------------------------*/
 
   #testimonial {
-    background: url('pexels-rahul-716398.jpg') center center no-repeat;
+   background-image: url('pexels-rahul-716398.jpg') center center no-repeat;
     background-size: cover;
   }
 
@@ -780,7 +780,7 @@
 
   .footer-open-hour {
     background: #ce3232;
-    background: url('pexels-ricardo-esquivel-1907785.jpg') center center no-repeat;
+    background-image: url('pexels-ricardo-esquivel-1907785.jpg') center center no-repeat;
     background-size: cover;
     border-radius: 20px;
     margin-top: 0;
